@@ -1,0 +1,5 @@
+git rm 04.txt
+supprime en local et sur le repo 
+
+git rm --cached 03.txt
+supprime sur le repo uniqument et pas en local  
